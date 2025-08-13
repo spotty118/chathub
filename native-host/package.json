@@ -1,0 +1,13 @@
+{
+  "name": "chathub-native-host",
+  "version": "0.1.0",
+  "private": true,
+  "bin": {
+    "chathub-native-host": "index.js"
+  },
+  "type": "commonjs",
+  "dependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  }
+}
