@@ -1,0 +1,9 @@
+{
+  "name": "com.chathub.proxy",
+  "description": "ChatHub Native Host for local OpenAI-compatible proxy",
+  "path": "/usr/local/bin/chathub-native-host",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://__EXTENSION_ID__/"
+  ]
+}

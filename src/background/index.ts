@@ -1,3 +1,5 @@
+import './native-bridge'
+
 import Browser from 'webextension-polyfill'
 import { ALL_IN_ONE_PAGE_ID } from '~app/consts'
 import { getUserConfig } from '~services/user-config'
